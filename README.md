@@ -4,8 +4,6 @@
 ## Education
 - B.S., Data Analytics | Washington State University (_May 2025_)								       		
 
-## Work Experience
-
 ## Projects
 ### Impact of Income on Obesity
 - Conducted analysis examining correlations between obesity rates and income levels across U.S. states
