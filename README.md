@@ -13,6 +13,3 @@
 - Utilized statistical modeling (linear regression, kNN with PCA) to predict obesity quartiles based on income and inactivity, achieving up to 75% accuracy
 - Implemented interactive visualizations like scatter plots, correlation matrices, and stacked bar charts using Plotly, ggplot2 and dplyr for user-friendly exploration of obesity trends and relationships
 - Delivered an interactive Shiny web application allowing users to visualize and understand state-wise obesity trends and related factors
-
-
-[LinkedIn](https://www.linkedin.com/in/cooper-cortinas-801163280)
