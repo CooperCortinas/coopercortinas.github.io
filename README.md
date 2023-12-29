@@ -8,7 +8,6 @@
 
 ## Projects
 ### Impact of Income on Obesity
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 - Conducted analysis examining correlations between obesity rates and income levels across U.S. states
 - Merged and processed datasets from census, CDC, and a local government study, engineering new features for enhanced analysis
 - Utilized statistical modeling (linear regression, kNN with PCA) to predict obesity quartiles based on income and inactivity, achieving up to 75% accuracy
@@ -16,4 +15,4 @@
 - Delivered an interactive Shiny web application allowing users to visualize and understand state-wise obesity trends and related factors
 
 
-- [LinkedIn](https://www.linkedin.com/in/cooper-cortinas-801163280)
+[LinkedIn](https://www.linkedin.com/in/cooper-cortinas-801163280)
